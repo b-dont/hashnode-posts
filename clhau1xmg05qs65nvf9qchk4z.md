@@ -4,6 +4,7 @@ datePublished: Tue Apr 11 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clhau1xmg05qs65nvf9qchk4z
 slug: deploy-and-run-ansible-with-docker
 canonical: https://brandont.dev/blog/deploy-and-run-ansible-with-docker/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jOqJbvo1P9g/upload/5d2c51f3b22053198d207dbcc3b7f799.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683308314247/52ee57dd-ac3f-4eb4-ad12-a703ec1aa020.png
 tags: docker, ansible, devops, podman
 
